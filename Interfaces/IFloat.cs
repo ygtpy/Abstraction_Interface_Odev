@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction_Assignment.Interfaces
 {
-    internal interface IFloat // Suda Yuzebilme Ozelligi
+    public interface IFloat // Suda Yuzebilme Ozelligi
     {
         void Float();
     }

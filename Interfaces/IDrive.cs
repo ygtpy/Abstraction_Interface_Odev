@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction_Assignment.Interfaces
 {
-    internal interface IDrive // Karada Gitme Ozelligi
+    public interface IDrive // Karada Gitme Ozelligi
     {
         void Drive();
     }

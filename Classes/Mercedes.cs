@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction_Assignment.Classes
 {
-    internal class Mercedes : IFloat, IFly
+    public class Mercedes : IFloat, IFly
     {
         public void Float() 
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction_Assignment.Interfaces
 {
-    internal interface IFly // Havada Ucabilme Ozelligi
+    public interface IFly // Havada Ucabilme Ozelligi
     {
         void Fly();
     }

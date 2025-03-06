@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction_Assignment.Classes
 {
-    internal class Prosche : IFly
+    public class Prosche : IFly
     {
         public void Fly()
         {
